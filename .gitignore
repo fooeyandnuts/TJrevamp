@@ -11,3 +11,10 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore other unneeded files.
+doc/
+*.swp
+*˜
+.project
+.DS Store
